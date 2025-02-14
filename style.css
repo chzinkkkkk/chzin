@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+#container {
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+}
+img {
+    height: 300px;
+    border-radius: 10px;
+}
+ul {
+    padding: 30px;
+}
+a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: bold;
+}
